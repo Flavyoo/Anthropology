@@ -1,0 +1,116 @@
+
+/* INDEX PAGE STYLE SECTION */
+.ind {
+	background-color: #0B80B6;;
+
+}
+body {
+	background-image:  url("file://css/assetts/book_Cover.jpg");
+	/*background-image: url("http://prodimage.images-bn.com/pimages/9780393929577_p0_v1_s1200x630.jpg");*/
+	background-color: #0B80B6;
+}
+.no_padding {
+	padding: 0 !important;
+    margin: 0 !important;
+}
+.thumbnail {
+	border: 0 none;
+    box-shadow: none;
+}
+.pic {
+	width:100%;
+	height:275px;
+}
+
+/* END OF INDEX PAGE STYLE SECTION */
+/* BEGINNING OF ANTHROPOLOGY STYLE SECTION */
+.navbar {
+	background-color: #0B80B6;
+}
+.ind2 {
+	background-color: white;
+
+}
+.question {
+	height: 400px;
+}
+.question1 {
+	background-color: #F2A80B;
+}
+.question2 {
+	background-color: #0CDF59;
+}
+.question3 {
+	background-color: #A6BDBF;
+}
+.question4 {
+	background-color: #81F5E2;
+	height: auto;
+}
+h4 {
+	color: #77848A;
+}
+p  {
+	font-family: 'Noto Serif', serif;
+
+}
+.sheik {
+	position: static;
+	height: auto;
+}
+.dropdown {
+	display: inline-block;;
+	position: relative;
+}
+.content {
+	display: none;
+    position: static;
+}
+
+.dropdown:hover .content {
+    display: block;
+}
+
+
+
+/* END OF ANTHROPOLOGY STYLE SECTION */
+
+/* CULTURE STYLE SECTION */
+.caption_color1 {
+	background-color: #0FE3FC;
+}
+.caption_color2 {
+	background-color: #FCBF0F;
+}
+.caption_color3{
+	background-color: #3FE355;
+}
+.caption_color4 {
+	background-color: #108CF9;
+}
+.have_all {
+	marging: 5%;
+}
+.culture_row {
+	margin: 10px;
+}
+.culture_h3 {
+	color: #FCFAFB;
+	font-family: 'Hindi', sans-serif;;
+}
+/* END OF CULTURE STYLE SECTION */
+/* LANGUAGE STYLE SECTION */
+
+.language_class_gender {
+	background-color: #67F7AC;
+	width: 100%;
+}
+/* END OF LANGUAGE STYLE SECTION */
+
+/* RACE STYLE SECTION */
+h3 {
+	font-family: 'Hind', sans-serif;
+	font-weight: bold;
+	color: #1A93F7;
+}
+/* END OF RACE STYLE SECTION */
